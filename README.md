@@ -1,11 +1,14 @@
 # Ini Putri
-Percobaan Markdown
+## Percobaan Markdown
 
 **TEBAL**
+
 *MIRING*
 
-HEADING
-==========
+HEADING 1
+========== 
+Ukuran menjadi Besar
 
-HEADING
+HEADING 2
 ----------
+Ukuran kecil
