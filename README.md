@@ -1,2 +1,5 @@
-# dok-markdown
+# Ini Putri
 Percobaan Markdown
+
+**TEBAL**
+*MIRING*
